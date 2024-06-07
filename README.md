@@ -1,8 +1,8 @@
 # Projeto de Monitoramento de Temperatura e Poluição nos Oceanos
 
 ## Integrantes
-Milena Codinhoto da Silva - RM 554682. 
-Evellyn Valencia - RM 557929.
+- Milena Codinhoto da Silva - RM 554682. 
+- Evellyn Valencia - RM 557929.
 
 ## Descrição
 Para a solução desse problema, pensamos em criar um sensor que mede a temperatura da água, da poluição e da quantidade de plásticos nos oceanos. Além disso, criaremos um site onde essas informações estarão sempre atualizadas.
