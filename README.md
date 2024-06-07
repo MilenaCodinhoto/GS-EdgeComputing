@@ -1,6 +1,6 @@
 # Projeto de Monitoramento de Temperatura e Poluição nos Oceanos
 
-##Integrantes
+## Integrantes
 Milena Codinhoto da Silva - RM 554682. 
 Evellyn Valencia - RM 557929.
 
